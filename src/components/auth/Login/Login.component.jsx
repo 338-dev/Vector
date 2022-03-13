@@ -63,9 +63,6 @@ const Login =()=>{
                   setIsSuccess(true)
                     setIsLoading(false);
                    
-                 // const   navigate=useNavigate();
-                   //navigate("/")
-                   
                    navigate("/")
                     
                 })
